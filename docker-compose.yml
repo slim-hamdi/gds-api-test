@@ -1,0 +1,18 @@
+version: '3.9'
+services:
+  api:
+    container_name: gds-api
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+      - PORT=3000
+      - API_KEY=
+      - SECRET=
+      - GDS_BASE_URL=https://api.waynium.com/gdsv3

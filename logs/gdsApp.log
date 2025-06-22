@@ -1,0 +1,56 @@
+[2025-06-22T18:42:21.790Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:42:54.775Z] [31merror[39m: Erreur: [object Object]
+[2025-06-22T18:44:47.828Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:45:00.164Z] [33mwarn[39m: Route non trouvée: GET /
+[2025-06-22T18:47:04.428Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:47:42.202Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:48:00.539Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:49:09.063Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:49:26.658Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:50:22.445Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:50:36.429Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:50:42.890Z] [31merror[39m: Erreur: Error: Route non trouvée: GET /login
+[2025-06-22T18:52:24.499Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:53:23.005Z] [31merror[39m: Erreur: Error: Route non trouvée: POST /login
+[2025-06-22T18:53:42.887Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:53:57.608Z] [31merror[39m: Erreur: Error: Route non trouvée: POST /auth/login
+[2025-06-22T18:54:41.918Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:54:53.098Z] [31merror[39m: Erreur: Error: secretOrPrivateKey must have a value
+[2025-06-22T18:57:58.924Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:58:32.976Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:58:52.747Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T18:59:29.964Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:00:24.232Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:00:55.129Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:01:46.653Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:02:29.215Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:02:52.470Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:03:07.041Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:03:24.903Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:04:31.298Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:04:39.422Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:04:43.625Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:04:59.894Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:05:41.647Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:09:18.634Z] [31merror[39m: Erreur: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+[2025-06-22T19:10:13.381Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:10:21.720Z] [31merror[39m: Erreur: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+[2025-06-22T19:12:01.796Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:12:06.602Z] [31merror[39m: Erreur: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+[2025-06-22T19:13:45.175Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:14:25.454Z] [31merror[39m: Erreur: AxiosError: Request failed with status code 404
+[2025-06-22T19:14:59.568Z] [31merror[39m: Erreur: AxiosError: Request failed with status code 404
+[2025-06-22T19:15:50.338Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:15:55.091Z] [31merror[39m: Erreur: AxiosError: Request failed with status code 404
+[2025-06-22T19:17:17.408Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:19:42.823Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:20:42.950Z] [31merror[39m: Erreur: AxiosError: Request failed with status code 404
+[2025-06-22T19:22:10.674Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:22:55.411Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:25:58.970Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:27:19.937Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T19:33:59.233Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T21:17:15.678Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T21:17:53.606Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T21:19:44.438Z] [32minfo[39m: Server running on port 3000
+[2025-06-22T21:20:10.849Z] [32minfo[39m: Server running on port 3000
